@@ -1,0 +1,6 @@
+<settings>
+    <setting id="WAIT_FOR_FEINIT" value="false" />
+    <setting id="XMLTV_LOCATION_FILE" value="/data/.data/xmltv.xml" />
+    <setting id="XMLTV_LOCATION_WEB" value="http://" />
+    <setting id="XMLTV_TYPE" value="FILE" />
+</settings>
